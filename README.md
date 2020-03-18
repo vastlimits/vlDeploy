@@ -94,3 +94,8 @@ Alternatively see the GitHub documentation on [creating a pull request](https://
 ## License
 
 This project uses the following license: [Apache](http://www.apache.org/licenses/).
+
+## Support
+
+This software is released as-is. vast limits provides no warranty and no support on this software. If you have any issues with the software, please file an issue on the repository.
+
